@@ -11,29 +11,29 @@ test("if user is logged in  1 + 2 to equal 3", () => {
 
 test1("if user is logged in  1 + 2 to equal 3", () => {
     expect(game1(1, 2)).toBe(3);
-  });
+});
 
   test2("if user is logged in  1 + 2 to equal 3", () => {
     expect(game2(1, 2)).toBe(3);
-  });
+});
   test3("if user is logged in  1 + 2 to equal 3", () => {
     expect(game3(1, 2)).toBe(3);
-  });
+});
   test4("if user is logged in  1 + 2 to equal 3", () => {
     expect(game4(1, 2)).toBe(3);
-  });
+});
   test5("if user is logged in  1 + 2 to equal 3", () => {
     expect(game5(1, 2)).toBe(3);
-  });
+});
   test6("if user is logged in  1 + 2 to equal 3", () => {
     expect(game6(1, 2)).toBe(3);
-  });
+});
   test7("if user is logged in  1 + 2 to equal 3", () => {
     expect(game7(1, 2)).toBe(3);
-  });
+});
   test8("if user is logged in  1 + 2 to equal 3", () => {
     expect(game8(1, 2)).toBe(3);
-  });
+});
   test9("if user is logged in  1 + 2 to equal 3", () => {
     expect(game9(1, 2)).toBe(3);
   });
