@@ -1,0 +1,1 @@
+{"version":1,"defects":{"loginTest::testlogin":4},"times":{"Calculator2Test::testAddOperation":0.053,"Calculator2Test::testSubtractOperation":0.009,"CalculatorTest::testAdd":0.051,"CalculatorTest::testSubtract":0,"loginTest::testlogin":0.018}}
