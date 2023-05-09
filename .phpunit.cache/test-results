@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"CalculatorTest::testAdd":0.037,"CalculatorTest::testSubtract":0}}
+{"version":1,"defects":{"CalculatorTest::testAddOperation":4,"CalculatorTest::testSubtractOperation":4,"CalculatorTest::testAdd":4,"CalculatorTest::testSubtract":4},"times":{"CalculatorTest::testAdd":0.595,"CalculatorTest::testSubtract":0.002,"CalculatorTest::testAddOperation":0.043,"CalculatorTest::testSubtractOperation":0.001}}
